@@ -93,4 +93,4 @@ async def on_message(message):
 
 
 
-client.run('MTExODM0MzEzMjE3ODgyNTI3Ng.GdF4l7.XSxRzBdnemrvbwVFxA0cyvOecZkSO4okexBJ28')
+client.run(os.environ['DISCORD_TOKEN'])
